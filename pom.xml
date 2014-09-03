@@ -5,11 +5,11 @@
     <groupId>weibo4j</groupId>
     <artifactId>weibo4j-oauth2</artifactId>
     <packaging>jar</packaging>
-    <version>2.1.1</version> 
+    <version>2.1.2-SNAPSHOT</version> 
   <scm>
     <connection>scm:git:https://github.com/WillemJiang/weibo4j-oauth2.git</connection>
     <developerConnection>scm:git:https://github.com/WillemJiang/weibo4j-oauth2.git</developerConnection>
-    <tag>weibo4j-oauth2-2.1.1</tag>
+    <tag>HEAD</tag>
   </scm>
   
     <properties>
